@@ -1,5 +1,3 @@
+from Population import Population
+from Objective import objective_function
 
-
-class evaluate_fit():
-
-    None
